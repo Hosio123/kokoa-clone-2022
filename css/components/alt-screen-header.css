@@ -5,6 +5,16 @@
   align-items: center;
   justify-content: center;
 }
+
+.alt-header__settings {
+  margin-top: -105px;
+  position: fixed;
+  width: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: white;
+}
+
 .alt-header__column {
   width: 33%;
 }
